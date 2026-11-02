@@ -1,4 +1,4 @@
-# git-timemachine · 微信聊天动画
+﻿# git-timemachine · 微信聊天动画
 
 纯 HTML + CSS + 原生 JS 的微信聊天动画演示，零依赖、无构建步骤，双击 `index.html` 即可打开。
 
